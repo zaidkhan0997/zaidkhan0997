@@ -1,4 +1,4 @@
-## Hi, there! I'm zαι∂ κнαи's  <img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/master/Hi.gif" width="30px">
+## Hi, there! I'm zαι∂ κнαи's  <img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/Hi.gif" width="30px">
 
 <img src="https://komarev.com/ghpvc/?username=zaidkhan0997&style=flat-square" alt="zaidkhan0997" /><br>
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/zaidkhan0997/zaidkhan0997/blob/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
+# How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/080f909da46192c0db62b76330302b0c.gif?raw=true">
 - Get in touch via <a href="https://t.me/zaidkhan0997">Telegram</a>
