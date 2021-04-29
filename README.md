@@ -8,7 +8,7 @@
 <a href="mailto:kzaid0997@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
 [![zαι∂ κнαи's github status](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&count_private=true&hide_border=false&title_color=eb0029&icon_color=eb0029&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan0997&layout=compact&hide_border=false&title_color=eb0029)](https://github.com/zaidkhan0997) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan0997&layout=compact&hide_border=false&title_color=eb0029)](https://github.com/zaidkhan0997)
 
 <!--
 **zaidkhan0997/zaidkhan0997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/080f909da46192c0db62b76330302b0c.gif?raw=true">
+- Let's discuss here <a href="https://t.me/joinchat/RO4gunTlzno9E4Rp"> Telegram Group</a>
 - Get in touch via <a href="https://t.me/zaidkhan0997">Telegram</a>
