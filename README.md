@@ -8,7 +8,6 @@
 <a href="mailto:kzaid0997@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
 ![zαι∂ κнαи's github status](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&count_private=true&hide_border=false&theme=radical&line_height=27&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan0997&hide=css,java,html&theme=radical)]
 
 <!--
 **zaidkhan0997/zaidkhan0997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
