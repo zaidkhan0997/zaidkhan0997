@@ -8,3 +8,5 @@
 <a href="mailto:kzaid0997@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
 ![zαι∂ κнαи's github status](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&count_private=true&hide_border=false&theme=radical&line_height=27&include_all_commits=true)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0) 
