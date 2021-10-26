@@ -7,6 +7,6 @@
 <a href="https://www.instagram.com/zaidkhan0997"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:kzaid0997@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
-![zαι∂ κнαи's github status](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&count_private=true&hide_border=false&theme=radical&line_height=27&include_all_commits=true)
+![zαι∂ κнαи's Github stats](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaidkhan0997&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
