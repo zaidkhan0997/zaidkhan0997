@@ -13,19 +13,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan0997&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
-</a>
-
-## Streak
-
-<p href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
-</p>
-</br>
-
-## Contribution Graph
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=zaidkhan0997&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
-</p>
