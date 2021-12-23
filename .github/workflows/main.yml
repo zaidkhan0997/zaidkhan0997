@@ -17,7 +17,7 @@ jobs:
           # Options
           user: zaidkhan0997
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Kolkata
           plugin_gists: yes
           plugin_isocalendar: yes
