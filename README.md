@@ -7,13 +7,6 @@
 <a href="https://www.instagram.com/zaidkhan0997"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:kzaid0997@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
-## Stats
-
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
-</a>
-
 ## Metrics
 <br>
 <p align="center">
