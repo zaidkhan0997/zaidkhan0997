@@ -14,9 +14,6 @@
   <img align="center" alt="zαι∂ кнαη's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
-![Snake Light](https://github.com/zaidkhan0997/zaidkhan0997/blob/snake/zaid-snake-light.svg#gh-light-mode-only)
-![Snake Dark](https://github.com/zaidkhan0997/zaidkhan0997/blob/snake/zaid-snake-dark.svg#gh-dark-mode-only)
-
 ## Metrics
 <br>
 <p align="center">
@@ -27,3 +24,6 @@
 <p align="center">
 <img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/github-metrics.svg" alt="zaidkhan0997" /><br>
 </p>
+
+![Snake Light](https://github.com/zaidkhan0997/zaidkhan0997/blob/snake/zaid-snake-light.svg#gh-light-mode-only)
+![Snake Dark](https://github.com/zaidkhan0997/zaidkhan0997/blob/snake/zaid-snake-dark.svg#gh-dark-mode-only)
