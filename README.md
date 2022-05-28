@@ -7,6 +7,16 @@
 <a href="https://www.instagram.com/zaidkhan0997"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:kzaid0997@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
 
+<a href="https://github.com/zaidkhan0997">
+  <img align="center" alt="zαι∂ кнαη's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaidkhan0997&theme=chartreuse-dark&show_icons=yes&hide_border=yes&include_all_commits=yes&count_private=yes" />
+</a>
+<a href="https://github.com/zaidkhan0997">
+  <img align="center" alt="zαι∂ кнαη's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
+![Snake Light](https://github.com/zaidkhan0997/zaidkhan0997/blob/snake/zaid-snake-light.svg#gh-light-mode-only)
+![Snake Dark](https://github.com/zaidkhan0997/zaidkhan0997/blob/snake/zaid-snake-dark.svg#gh-dark-mode-only)
+
 ## Metrics
 <br>
 <p align="center">
