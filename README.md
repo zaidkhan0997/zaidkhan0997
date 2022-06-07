@@ -1,4 +1,4 @@
-## Hi, there! I'm zαι∂ κнαи  <img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/Hi.gif" width="30px">
+## Hi, there! I'm zαι∂ κнαи
 
 <img src="https://komarev.com/ghpvc/?username=zaidkhan0997&style=flat-square" alt="zaidkhan0997" /><br>
 
