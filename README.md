@@ -1,3 +1,19 @@
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaidkhan00997) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidkhan0997) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zaid_khan0997)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan0997&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zaidkhan0997&icon=2&color=3)](https://visitcount.itsvg.in)
+
+  ## 💰You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zaidkhan099)
+
 ## Metrics
 <br>
 <p align="center">
