@@ -11,18 +11,5 @@
 
 ---
 
-## Metrics
-<br>
-<p align="center">
-<img src="https://github.com/zaidkhan0997/zaidkhan0997/actions/workflows/main.yml/badge.svg" alt="https://github.com/zaidkhan0997/zaidkhan0997/actions/workflows/main.yml" /><br></p>
-</p>
-
-<br>
-<p align="center">
-<img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/github-metrics.svg" alt="zaidkhan0997" /><br>
-</p>
-
----
-
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zaidkhan099)
