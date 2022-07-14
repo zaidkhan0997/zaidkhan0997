@@ -9,11 +9,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
-## Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2lvjtv2vzc9ml4i6w5bvw0s5h&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2lvjtv2vzc9ml4i6w5bvw0s5h&redirect=true)
-
----
 
 ## My Statistics
 
