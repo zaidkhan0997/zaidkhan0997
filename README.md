@@ -5,11 +5,6 @@
 
 ---
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
----
-
 ## My Statistics
 
 <br/>
@@ -20,6 +15,11 @@
   </a>
 </p>
 <br>
+
+---
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
 
