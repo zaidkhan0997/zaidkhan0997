@@ -5,21 +5,21 @@
 
 ---
 
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://zaidkhan.ml/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+## Metrics
 <br>
+<p align="center">
+<img src="https://github.com/zaidkhan0997/zaidkhan0997/actions/workflows/main.yml/badge.svg" alt="https://github.com/zaidkhan0997/zaidkhan0997/actions/workflows/main.yml" /><br></p>
+</p>
+
+<br>
+<p align="center">
+<img src="https://github.com/zaidkhan0997/zaidkhan0997/blob/main/github-metrics.svg" alt="zaidkhan0997" /><br>
+</p>
 
 ---
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
 
