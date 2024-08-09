@@ -1,5 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=zaidkhan0997&icon=10&color=3)](https://visitcount.itsvg.in)
 
+<iframe src="https://github.com/sponsors/zaidkhan0997/card" title="Sponsor zaidkhan0997" height="225" width="600" style="border: 0;"></iframe>
+
 ---
 ## 🌐 Socials:
 <div align="center">
