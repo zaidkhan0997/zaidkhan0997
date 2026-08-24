@@ -35,28 +35,31 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <table align="center" style="border: none;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 6px 20px;">
-        <strong>💻 Languages</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=dark" height="34" alt="Languages" />
-      </td>
-      <td align="center" style="border: none; padding: 6px 20px;">
-        <strong>⚛️ Frameworks & Backend</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" height="34" alt="Frameworks" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 6px 20px;">
-        <strong>🗄️ Databases & Storage</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" height="34" alt="Databases" />
-      </td>
-      <td align="center" style="border: none; padding: 6px 20px;">
-        <strong>🧰 DevOps & Tools</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,vercel,postman,vscode&theme=dark" height="34" alt="Tools" />
-      </td>
-    </tr>
-  </table>
+
+  <p align="center">
+    <span style="display: inline-block; margin: 6px 20px; text-align: center;">
+      <strong>💻 Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=dark" height="34" alt="Languages" />
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span style="display: inline-block; margin: 6px 20px; text-align: center;">
+      <strong>⚛️ Frameworks & Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" height="34" alt="Frameworks" />
+    </span>
+  </p>
+
+  <p align="center">
+    <span style="display: inline-block; margin: 6px 20px; text-align: center;">
+      <strong>🗄️ Databases & Storage</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" height="34" alt="Databases" />
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span style="display: inline-block; margin: 6px 20px; text-align: center;">
+      <strong>🧰 DevOps & Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,vercel,postman,vscode&theme=dark" height="34" alt="Tools" />
+    </span>
+  </p>
+
 </div>
 
 ---
