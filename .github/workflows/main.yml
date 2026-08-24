@@ -17,8 +17,27 @@ jobs:
           # Options
           user: zaidkhan0997
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: Asia/Kolkata
-          plugin_gists: yes
+
+          # Isometric Contribution Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Commit Streaks & Habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+
+          # Languages breakdown (Most used & Recently used)
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_limit: 8
+
+          # Starred Topics Icons
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 20

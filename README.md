@@ -1,36 +1,89 @@
-[![](https://visitcount.itsvg.in/api?id=zaidkhan0997&icon=10&color=3)](https://visitcount.itsvg.in)
-
----
-## 🌐 Socials:
 <div align="center">
-<a href="https://github.com/zaidkhan0997" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/zaid_khan0997" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/zaidkhan0997" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/zaikhan00997" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/zaidkhan0997" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/zaidkhan0997" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
+
+  # <a href="https://github.com/zaidkhan0997">Zaid Khan</a>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=35&lines=Full+Stack+Software+Developer;Open-Source+Enthusiast+%26+Builder;Crafting+Fast%2C+Modern+Web+Apps)](https://github.com/zaidkhan0997)
+
+  <p align="center">
+    <a href="https://github.com/zaidkhan0997">
+      <img src="https://komarev.com/ghpvc/?username=zaidkhan0997&style=flat-square&color=0284c7&label=VIEWS" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/zaidkhan0997" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/zaid_khan0997" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://dev.to/zaidkhan0997" target="_blank">
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" />
+    </a>
+    <a href="https://instagram.com/zaidkhan0997" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://t.me/zaidkhan0997" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:kzaid0997@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan0997&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan0997&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 6px 20px;">
+        <strong>💻 Languages</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=dark" height="34" alt="Languages" />
+      </td>
+      <td align="center" style="border: none; padding: 6px 20px;">
+        <strong>⚛️ Frameworks & Backend</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" height="34" alt="Frameworks" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 6px 20px;">
+        <strong>🗄️ Databases & Storage</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" height="34" alt="Databases" />
+      </td>
+      <td align="center" style="border: none; padding: 6px 20px;">
+        <strong>🧰 DevOps & Tools</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,vercel,postman,vscode&theme=dark" height="34" alt="Tools" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/zaidkhan099) 
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Zaid Khan GitHub Metrics" width="95%" />
+</div>
+
+---
+
+### 💡 Daily Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### 🤝 Support & Connect
+
+<div align="center">
+  <a href="https://paypal.me/zaidkhan099" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal Donate" />
+  </a>
+  <a href="https://github.com/zaidkhan0997?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositories" />
+  </a>
+</div>
